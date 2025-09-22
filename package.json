@@ -11,7 +11,15 @@
   "dependencies": {
     "react-dom": "^19.1.1",
     "react": "^19.1.1",
-    "@google/genai": "^1.20.0"
+    "@google/genai": "^1.20.0",
+    "react-markdown": "^9.0.1",
+    "remark-gfm": "^4.0.0",
+    "@codemirror/theme-one-dark": "^6.1.3",
+    "@codemirror/lang-markdown": "^6.3.4",
+    "@codemirror/view": "^6.38.3",
+    "@codemirror/state": "^6.5.2",
+    "@codemirror/commands": "^6.8.1",
+    "react-diff-viewer-continued": "^3.4.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
