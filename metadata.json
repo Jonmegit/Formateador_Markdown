@@ -1,0 +1,5 @@
+{
+  "name": "AI Markdown Formatter",
+  "description": "A web application that uses the Gemini API to clean up, correct, and format messy Markdown text into a well-structured and readable format.",
+  "requestFramePermissions": []
+}
